@@ -1,0 +1,20 @@
+.card  {
+  
+  width: 300px;
+  margin: 1px auto;
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+  font-weight: lighter;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+}
+
+.card-container {
+  display: flex;
+
+}
+
+.card img {
+  width: 300px;
+  height: 185px;
+}
